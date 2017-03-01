@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1FA8D81994F93C039CD71909 /* Pods_ReactiveBegining.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7162EC6910F3BA4DD00CC0A0 /* Pods_ReactiveBegining.framework */; };
+		682E70031E66AF0B001F9C49 /* Error.swift in Sources */ = {isa = PBXBuildFile; fileRef = 682E70021E66AF0B001F9C49 /* Error.swift */; };
 		68884FD91E6663140054F853 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68884FD81E6663140054F853 /* AppDelegate.swift */; };
 		68884FDB1E6663140054F853 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68884FDA1E6663140054F853 /* ViewController.swift */; };
 		68884FDE1E6663140054F853 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68884FDC1E6663140054F853 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		19756D6F55B0EFD9BE63B4F4 /* Pods-ReactiveBegining.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactiveBegining.release.xcconfig"; path = "../Pods/Target Support Files/Pods-ReactiveBegining/Pods-ReactiveBegining.release.xcconfig"; sourceTree = "<group>"; };
+		682E70021E66AF0B001F9C49 /* Error.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Error.swift; sourceTree = "<group>"; };
 		68884FD51E6663140054F853 /* ReactiveBegining.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactiveBegining.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		68884FD81E6663140054F853 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		68884FDA1E6663140054F853 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 			children = (
 				68884FD81E6663140054F853 /* AppDelegate.swift */,
 				68884FDA1E6663140054F853 /* ViewController.swift */,
+				682E70021E66AF0B001F9C49 /* Error.swift */,
 				68884FDC1E6663140054F853 /* Main.storyboard */,
 				68884FDF1E6663140054F853 /* Assets.xcassets */,
 				68884FE11E6663140054F853 /* LaunchScreen.storyboard */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				68884FDB1E6663140054F853 /* ViewController.swift in Sources */,
+				682E70031E66AF0B001F9C49 /* Error.swift in Sources */,
 				68884FD91E6663140054F853 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -340,7 +344,7 @@
 				DEVELOPMENT_TEAM = 32MSK5YDT8;
 				INFOPLIST_FILE = ReactiveBegining/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = NS.ReactiveBegining;
+				PRODUCT_BUNDLE_IDENTIFIER = AY.ReactiveBegining;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -354,7 +358,7 @@
 				DEVELOPMENT_TEAM = 32MSK5YDT8;
 				INFOPLIST_FILE = ReactiveBegining/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = NS.ReactiveBegining;
+				PRODUCT_BUNDLE_IDENTIFIER = AY.ReactiveBegining;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
