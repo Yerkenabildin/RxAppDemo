@@ -1,3 +1,3 @@
 # ReactiveLogin
 
-[Viblos tutorial](https://viblo.asia/yerkenabildin/posts/PwRkgmzoGEd)
+[Tutorial](https://viblo.asia/yerkenabildin/posts/PwRkgmzoGEd)
