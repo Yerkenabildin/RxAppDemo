@@ -1,5 +1,7 @@
 # RxAppDemo
-Projects crated for better understanding of my tutorials on [viblo.asia](https://viblo.asia/u/yerkenabildin):
+![Logo](logo.png)
 
-[ReactiveBegining](https://github.com/Yerkenabildin/RxAppDemo/tree/master/ReactiveBegining)</br>
-[ReactiveLogin](https://github.com/Yerkenabildin/RxAppDemo/tree/master/ReactiveLogin)
+Projects crated for better understanding tutorials on [viblo.asia](https://viblo.asia/u/yerkenabildin):
+</br>
+- [ReactiveBegining](https://github.com/Yerkenabildin/RxAppDemo/tree/master/ReactiveBegining)</br>
+- [ReactiveLogin](https://github.com/Yerkenabildin/RxAppDemo/tree/master/ReactiveLogin)
