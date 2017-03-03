@@ -18,3 +18,7 @@ target 'ReactiveLogin' do
     pod 'Firebase/Core'
     pod 'Firebase/Auth'
 end
+
+target 'ReactiveCocoa' do
+	project 'ReactiveCocoa/ReactiveCocoa.xcodeproj'
+end
